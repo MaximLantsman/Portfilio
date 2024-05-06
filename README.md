@@ -7,6 +7,7 @@ apk -
 Video Example - 
 <video width="320" height="240" controls>
   <source src="https://github.com/MaximLantsman/Portfilio/assets/50078556/57e4395f-accc-47c2-b35d-4a358b2dfc50" type="video/mp4">
+  banana
 </video>
 <br>
 Picture Examples -
