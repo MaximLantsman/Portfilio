@@ -46,6 +46,14 @@ Picture Examples -
 <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/837c7cbe-1a77-43d1-a744-5809fb3899d8" width="200" height="200">
 <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/a677ea23-cda0-439e-8305-b78831f0d87c" width="200" height="200">
 
+BugScale: A game made in 48 hours during the GMTK2024 game jam.
+<br>
+game link: https://maximlantsman.itch.io/bugscale
+<br>
+Picture Examples -
+<br>
+
+
 Hand Of The beasts: A codding prototype with pathfinding,Grid and a card game.
 <br>
 Video Example -
