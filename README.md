@@ -52,6 +52,10 @@ game link: https://maximlantsman.itch.io/bugscale
 <br>
 Picture Examples -
 <br>
+<img src="https://github.com/user-attachments/assets/d4f29024-b100-43a4-a184-1fac0e65d94e" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/18873437-d85d-4018-9ce3-6a3c598f1764" width="200" height="200">
+![2](https://github.com/user-attachments/assets/d4f29024-b100-43a4-a184-1fac0e65d94e)
+![1](https://github.com/user-attachments/assets/18873437-d85d-4018-9ce3-6a3c598f1764)
 
 
 Hand Of The beasts: A codding prototype with pathfinding,Grid and a card game.
