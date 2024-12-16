@@ -1,6 +1,6 @@
 # Portfilio
 
-Ubi-Nao: An AR app developed as part of an end project to my degree in instructional designs. Won an award for BEST STUDENT RESEARCH-IN-PROGRESS PAPER AWARD at the KM2022 in Slovenia.
+Ubi-Nao: An AR app developed as part of an end project to my degree in instructional designs. Won an award for <a href="https://iiakm.org/awards/bestpaper.php">BEST STUDENT RESEARCH-IN-PROGRESS PAPER AWARD</a> at the KM2022 in Slovenia.
 <br>
 APK - https://drive.google.com/file/d/1Haw7W5ggtROrelb1BYDLrdTija-G9Hvw/view?usp=sharing
 <br>
