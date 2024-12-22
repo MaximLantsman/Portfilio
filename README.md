@@ -33,11 +33,9 @@ A VR game utilizing hand recognition.
 - **[Video Example](https://github.com/MaximLantsman/Portfilio/assets/50078556/96643186-bb53-43b8-ae51-b7bcd5b80efc)**  
 
 ### Picture Examples:
-![Space Rescue Example 1](https://github.com/MaximLantsman/Portfilio/assets/50078556/16b099e4-fe4e-4fdb-a268-7a60ff9191ae)
-![Space Rescue Example 2](https://github.com/MaximLantsman/Portfilio/assets/50078556/211a9181-b8d1-4494-8461-e72b27e7751b)
 <p align="center">
-  <img src="" alt="" width="300" height="300">
-  <img src="" alt="" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/16b099e4-fe4e-4fdb-a268-7a60ff9191ae" alt="Space Rescue Example 1" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/211a9181-b8d1-4494-8461-e72b27e7751b" alt="Space Rescue Example 2" width="300" height="300">
 </p>
 ---
 
@@ -48,11 +46,9 @@ A game created in 48 hours during the GMTK2022 game jam.
 - **[Video Example](https://github.com/MaximLantsman/Portfilio/assets/50078556/05cb91cb-e30b-4d57-afc1-b508dfb7b3e6)**  
 
 ### Picture Examples:
-![Dungeon Roll Example 1](https://github.com/MaximLantsman/Portfilio/assets/50078556/837c7cbe-1a77-43d1-a744-5809fb3899d8)
-![Dungeon Roll Example 2](https://github.com/MaximLantsman/Portfilio/assets/50078556/a677ea23-cda0-439e-8305-b78831f0d87c)
 <p align="center">
-  <img src="" alt="" width="300" height="300">
-  <img src="" alt="" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/837c7cbe-1a77-43d1-a744-5809fb3899d8" alt="Dungeon Roll Example 1" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/a677ea23-cda0-439e-8305-b78831f0d87c" alt="Dungeon Roll Example 2" width="300" height="300">
 </p>
 ---
 
@@ -74,10 +70,8 @@ A coding prototype featuring pathfinding, a grid, and card game mechanics.
 - **[Video Example](https://github.com/MaximLantsman/Portfilio/assets/50078556/0b709d84-069d-4e4f-9677-7c22ec3df2c1)**  
 
 ### Picture Examples:
-![Hand of the Beasts Example 1](https://github.com/MaximLantsman/Portfilio/assets/50078556/ab31d195-2143-45df-94a1-cb4046260001)
-![Hand of the Beasts Example 2](https://github.com/MaximLantsman/Portfilio/assets/50078556/27ee4bec-7893-41f1-8cd3-c1c063f5b03d)
 <p align="center">
-  <img src="" alt="" width="300" height="300">
-  <img src="" alt="" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/ab31d195-2143-45df-94a1-cb4046260001" alt="Hand of the Beasts Example 1" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/27ee4bec-7893-41f1-8cd3-c1c063f5b03d" alt="Hand of the Beasts Example 2" width="300" height="300">
 </p>
 ---
