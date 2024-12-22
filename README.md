@@ -9,8 +9,8 @@ Won an award for [BEST STUDENT RESEARCH-IN-PROGRESS PAPER AWARD](https://iiakm.o
 
 ### Picture Examples:
 <p align="center">
-  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/b7a60a29-4d5a-4029-9ce0-9b45143f748f" alt="Ubi-Nao Example 1" width="300" height="300">
-  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/480973b3-18b2-4659-abcb-1bae5dc1f6f9" alt="Ubi-Nao Example 2" width="300" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/b7a60a29-4d5a-4029-9ce0-9b45143f748f" alt="Ubi-Nao Example 1" width="180" height="300">
+  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/480973b3-18b2-4659-abcb-1bae5dc1f6f9" alt="Ubi-Nao Example 2" width="180" height="300">
 </p>
 ---
 
