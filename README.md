@@ -8,7 +8,7 @@ Won an award for [BEST STUDENT RESEARCH-IN-PROGRESS PAPER AWARD](https://iiakm.o
 - **[Video Example](https://github.com/MaximLantsman/Portfilio/assets/50078556/88aadb3b-adbe-4dfc-9e2a-829518c76ce5)**  
 
 ### Picture Examples:
-![Ubi-Nao Example 1]<img src="[IMAGE_URL](https://github.com/MaximLantsman/Portfilio/assets/50078556/b7a60a29-4d5a-4029-9ce0-9b45143f748f)" width="200">
+![Ubi-Nao Example 1](https://github.com/MaximLantsman/Portfilio/assets/50078556/b7a60a29-4d5a-4029-9ce0-9b45143f748f)
 
 ![Ubi-Nao Example 2](https://github.com/MaximLantsman/Portfilio/assets/50078556/480973b3-18b2-4659-abcb-1bae5dc1f6f9)
 
@@ -55,8 +55,10 @@ A game created in 48 hours during the GMTK2024 game jam.
 - **[Game Link](https://maximlantsman.itch.io/bugscale)**  
 
 ### Picture Examples:
-![BugScale Example 1](https://github.com/user-attachments/assets/d4f29024-b100-43a4-a184-1fac0e65d94e)
-![BugScale Example 2](https://github.com/user-attachments/assets/18873437-d85d-4018-9ce3-6a3c598f1764)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4f29024-b100-43a4-a184-1fac0e65d94e" alt="BugScale Example 1" width="300" height="300">
+  <img src="https://github.com/user-attachments/assets/18873437-d85d-4018-9ce3-6a3c598f1764" alt="BugScale Example 2" width="300" height="300">
+</p>
 
 ---
 
