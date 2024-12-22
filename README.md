@@ -1,6 +1,3 @@
-Here is a reformatted version of your portfolio content tailored for a GitHub README file:  
-
-```markdown
 # Portfolio
 
 ## Ubi-Nao  
@@ -70,6 +67,3 @@ A coding prototype featuring pathfinding, a grid, and card game mechanics.
 ### Picture Examples:
 ![Hand of the Beasts Example 1](https://github.com/MaximLantsman/Portfilio/assets/50078556/ab31d195-2143-45df-94a1-cb4046260001)
 ![Hand of the Beasts Example 2](https://github.com/MaximLantsman/Portfilio/assets/50078556/27ee4bec-7893-41f1-8cd3-c1c063f5b03d)
-```
-
-This format uses markdown syntax, includes appropriate headings, and ensures all links and media are neatly organized.
