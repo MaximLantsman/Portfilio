@@ -1,5 +1,40 @@
 # Portfolio
 
+## Hack and Slash   
+A 2.5 hack and slash project with different weapons and enemies.
+
+- **[GitHub Link](https://github.com/MaximLantsman/SlashAndMagic)**  
+
+### Picture Examples:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee5ca317-8142-4c12-94a8-0b2be29d4d9f" alt="Enemy Spawn" width="300" height="300">
+  <img src="https://github.com/user-attachments/assets/842c01d3-a504-4f8a-911e-052ba02d9ea2" alt="" width="300" height="300">
+</p>
+---
+
+## Special Delivery Man - VR 
+A VR game utalizing hand regonition where you fly around 
+
+- **[GitHub Link](https://github.com/MaximLantsman/VR_SpecialDelivery)**
+  
+### Picture Examples:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a272a334-7eac-4aff-8270-36868b0ce6e8" alt="Flying Forward VR" width="300" height="300">
+  <img src="https://github.com/user-attachments/assets/80374c31-a258-4758-b997-922d0b2c5732" alt="Finishing Delivery" width="300" height="300">
+</p>
+---
+
+## VFX Collection
+Different VFX using particle system and shader graph 
+
+- **[GitHub Link](https://github.com/MaximLantsman/SpecialEffects_Collection)**  
+
+### Picture Examples:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d856a840-200a-4bd6-bbea-5291662b28d7" alt="Healing Circle" width="300" height="300">
+</p>
+---
+
 ## Ubi-Nao  
 An AR app developed as part of an end project for my degree in Instructional Design.  
 Won an award for [BEST STUDENT RESEARCH-IN-PROGRESS PAPER AWARD](https://iiakm.org/awards/bestpaper.php) at KM2022 in Slovenia.  
@@ -23,19 +58,6 @@ A technical test for a VR app with magic spells, using voice and movement recogn
 <p align="center">
   <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/ca9e440a-6ab6-4041-9abe-d711fa9e92d0" alt="VR Magic Example 1" width="300" height="300">
   <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/bbfd6866-8ec0-44a8-9a0d-0d87654285d6" alt="VR Magic Example 2" width="300" height="300">
-</p>
----
-
-## Space Rescue (In Progress)  
-A VR game utilizing hand recognition.  
-
-- **[APK (for Quest)](https://drive.google.com/file/d/1gMOXmbZQNhgnoGj7W8fz--ptpDu-_cY6/view?usp=sharing)**  
-- **[Video Example](https://github.com/MaximLantsman/Portfilio/assets/50078556/96643186-bb53-43b8-ae51-b7bcd5b80efc)**  
-
-### Picture Examples:
-<p align="center">
-  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/16b099e4-fe4e-4fdb-a268-7a60ff9191ae" alt="Space Rescue Example 1" width="300" height="300">
-  <img src="https://github.com/MaximLantsman/Portfilio/assets/50078556/211a9181-b8d1-4494-8461-e72b27e7751b" alt="Space Rescue Example 2" width="300" height="300">
 </p>
 ---
 
